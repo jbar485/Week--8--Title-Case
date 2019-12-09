@@ -12,11 +12,9 @@ _Epicodus curriculum instructions: create a Ruby method on the String class that
 
 |  Behavior | Input  | Output  |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| user enters a word and we capitalize the word | "hello" | "Hello" |
+| user enters several words and we capitalize them | "hello how are you" | "Hello How Are You" |
+| user enters several words and we capitalize the first and last words along with any other important words | "welcome to the advanced class" | "Welcome to the Advanced Class" |
 
 
 
