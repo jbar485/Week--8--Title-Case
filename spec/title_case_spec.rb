@@ -9,6 +9,6 @@ describe("#capital_letter") do
     expect("hello how are you".capital_letter).to(eq("Hello How Are You"))
   end
   it("will capitalize the words that the user enters except for unimportant words from our array, unless they are the first or last words") do
-    expect("welcome to the advanced class".capital_letter).to(eq("Welcome to the Advanced Class"))
+    expect("the but an advanced class for".capital_letter).to(eq("The but an Advanced Class For"))
   end
 end
